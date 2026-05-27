@@ -1,0 +1,21 @@
+# Ignore Environment Variables (Security)
+.env
+
+# Ignore IDE configuration folders
+.idea/
+.vscode/
+
+# Ignore Python Virtual Environments
+venv/
+.venv/
+env/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local OS junk files
+.DS_Store
+Thumbs.db
